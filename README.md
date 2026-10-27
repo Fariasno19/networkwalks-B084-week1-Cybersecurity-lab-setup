@@ -25,3 +25,20 @@ The lab is set up on a private virtual network; in order to prepare for future a
 - Prepare the environment for future cybersecurity projects.
 
   
+---
+
+## Purpose of the Lab
+
+The purpose of this lab offers a safe, regulated setting for authorized security testing and cybersecurity training.
+
+It can be used for activities such as:
+
+- Network reconnaissance
+- Port scanning
+- Vulnerability assessment
+- Packet analysis
+- Web security testing
+- Exploitation practice
+- Security-tool experimentation
+
+  
