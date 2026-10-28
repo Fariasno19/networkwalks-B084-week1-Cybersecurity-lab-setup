@@ -47,7 +47,7 @@ It can be used for activities such as:
 
 ##  Lab Architecture
 
-![](Screenshot-2.png)
+![](Screenshot 2.png)
 
 
 
@@ -148,7 +148,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future practices.
 
-![](Screenshot-3.png)
+![](Screenshot 3.png)
 
 ---
 
