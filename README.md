@@ -47,7 +47,7 @@ It can be used for activities such as:
 
 ##  Lab Architecture
 
-![](Screenshot 2.png)
+![](Screenshot-2.png)
 
 
 
@@ -100,7 +100,7 @@ DHCP:         Enabled
 IPv6:         Disabled
 
 
-![](Screenshot 1.png)
+![](Screenshot-1.png)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -148,7 +148,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future practices.
 
-![](Screenshot 3.png)
+![](Screenshot-3.png)
 
 ---
 
